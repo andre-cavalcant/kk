@@ -30,3 +30,5 @@ mensagem.textContent = "Você clicou no botão! 🎉";
 
 
 });
+
+<script>const botao=document.getelement byld("mudar estilo");botao.add event listener("click', 0=>{document.body.classlist.toogle("novo-estilo");
